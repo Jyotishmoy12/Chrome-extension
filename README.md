@@ -3,7 +3,7 @@ With the help of this extension we can bookmark a specific time stamp of a video
 Programming language used in here is Javascript
 Link for the extension in chrome web store - https://chrome.google.com/webstore/detail/my-yt-bookmarks/phjpmbgaknbpinibjgneengpkljbcgkp
 
-Youtube video link of how it works-
+Youtube video link of how it works-https://youtu.be/UtISOsVrz6g
 
 Picture of how it works-
 
