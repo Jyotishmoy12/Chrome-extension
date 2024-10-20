@@ -1,7 +1,14 @@
-A Chrome-extension which is for youtube only
-With the help of this extension we can bookmark a specific time stamp of a video and play it whenever we need and we can delete the bookmarks to by simply clicking the delete button.
-Programming language used in here is Javascript
-Link for the extension in chrome web store - https://chrome.google.com/webstore/detail/my-yt-bookmarks/phjpmbgaknbpinibjgneengpkljbcgkp
+• Developed a Chrome extension that simplifies bookmarking specific timestamps in YouTube videos,
+enhancing user convenience during video navigation.
+<br/>
+• Created an intuitive interface allowing users to effortlessly add unlimited timestamps, ensuring a
+seamless bookmarking experience.
+<br/>
+• Implemented a straightforward delete button for intuitive removal of timestamps, streamlining the
+management of bookmarked moments within videos.
+<br/>
+• Achieved over 10+ downloads on the Chrome Web Store.
+
 
 Youtube video link of how it works-https://youtu.be/UtISOsVrz6g
 
